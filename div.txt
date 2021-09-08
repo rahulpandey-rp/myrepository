@@ -1,1 +1,2 @@
-Hello diverged!
+Hello diverged
+this file have merged!
